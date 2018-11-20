@@ -11,7 +11,7 @@ import lombok.Data;
 public class Permission {
     private Integer pid;
 
-    private String rname;
+    private String name;
 
     private String url;
 }
